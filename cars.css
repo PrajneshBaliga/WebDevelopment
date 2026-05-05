@@ -1,0 +1,36 @@
+cars {
+    display: block;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+car {
+    display: block;
+    margin: 15px;
+    padding: 10px;
+    border: 1px solid #333;
+    background-color: #ffffff;
+}
+
+brand {
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    color: darkblue;
+}
+
+model {
+    display: block;
+    color: green;
+}
+
+year {
+    display: block;
+    color: purple;
+}
+
+price {
+    display: block;
+    color: red;
+    font-weight: bold;
+}
