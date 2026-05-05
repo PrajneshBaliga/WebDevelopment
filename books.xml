@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Introduction to Programming</title>
+        <author>John Doe</author>
+        <year>2024</year>
+    </book>
+    <book>
+        <title>Data Structures Basics</title>
+        <author>Jane Smith</author>
+        <year>2023</year>
+    </book>
+    <book>
+        <title>Web Development Guide</title>
+        <author>Mike Johnson</author>
+        <year>2022</year>
+    </book>
+    <book>
+        <title>Machine Learning Essentials</title>
+        <author>Emily Davis</author>
+        <year>2025</year>
+    </book>
+</library>
