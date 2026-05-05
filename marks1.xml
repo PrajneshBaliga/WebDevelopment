@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+
+<students>
+    <student>
+        <name>Rahul Sharma</name>
+        <rollno>101</rollno>
+        <marks>
+            <maths>85</maths>
+            <science>78</science>
+            <english>90</english>
+        </marks>
+    </student>
+
+    <student>
+        <name>Priya Singh</name>
+        <rollno>102</rollno>
+        <marks>
+            <maths>92</maths>
+            <science>88</science>
+            <english>95</english>
+        </marks>
+    </student>
+
+    <student>
+        <name>Amit Patel</name>
+        <rollno>103</rollno>
+        <marks>
+            <maths>75</maths>
+            <science>80</science>
+            <english>70</english>
+        </marks>
+    </student>
+</students>
