@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="cars.css"?>
+
+<cars>
+    <car>
+        <brand>Toyota</brand>
+        <model>Corolla</model>
+        <year>2022</year>
+        <price>1500000</price>
+    </car>
+
+    <car>
+        <brand>Honda</brand>
+        <model>Civic</model>
+        <year>2023</year>
+        <price>1800000</price>
+    </car>
+
+    <car>
+        <brand>Hyundai</brand>
+        <model>Creta</model>
+        <year>2024</year>
+        <price>1700000</price>
+    </car>
+</cars>
